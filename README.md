@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./a-github-banner-for-a-developer-profile-_y-5bRTU0SMCquiVreagVOg_uGJFlThFT6ODeucTI9h-uw.jpeg)
 
 # 👋 Hi, I'm Usama Zulfiqar  
 **🚀 Senior Full-Stack Developer | Top Rated Plus Freelancer | 10+ Years Experience**
